@@ -1,0 +1,65 @@
+Issue Type,Issue key,Issue id,Parent id,Summary,Status,Resolution
+Incident,HOINC-1485,40005,,P3: INC0021248 - Edit attachment removed,Reopened,Fixed
+Incident,HOINC-1778,42010,,P3: INC0033463 - A-Z not working,Reopened,Fixed
+Bug,HOINC-1962,43567,,Wysiwyg images freeze text in IE,Verified - UAT,Fixed
+Problem,HOINC-2042,44305,,P3:PRB0040400- Horizon Issue with Search Tool,Test in UAT,Fixed
+Problem,HOINC-2047,44313,,P3:PRB0040401- AIM admin fault,Verified - UAT,Fixed
+Incident,HOINC-2065,44335,,Refine search not working,Verified - UAT,Fixed
+Bug,HOINC-2071,44390,,Archived doc displayed in search results for group,Test in UAT,Fixed
+Bug,HOINC-2072,44393,,Site section manager should be able to use preview mode,Verified - UAT,Fixed
+Bug,HOINC-2073,44396,,Remove flagging within groups. ,Test in UAT,Fixed
+Task,HOINC-2074,44399,,Ability for group member to leave a group ,Test in UAT,Fixed
+Bug,HOINC-2075,44402,,Should not be able to vote within a public group poll unless you are a member,Test in UAT,Fixed
+Bug,HOINC-2076,44405,,Update wording for private groups within create new group,Test in UAT,Fixed
+Bug,HOINC-2077,44408,,Ex-Group members should not recieve notifications,Test in UAT,Fixed
+Improvement,HOINC-2078,44411,,Tabbing does not work correctly within add new member,Test in UAT,Fixed
+Bug,HOINC-2079,44414,,Toolbar visible when cloning doc,Test in UAT,Fixed
+Bug,HOINC-2080,44417,,Comments total on message type visible even when comments disabled,Verified - UAT,Fixed
+Bug,HOINC-2081,44420,,Moving a message category does not adopt colour,Verified - UAT,Fixed
+Bug,HOINC-2082,44423,,Mentions appearing incorrectly when editing a message,Reopened,Fixed
+Bug,HOINC-2083,44426,,Message Wall comments should be 'post',Verified - UAT,Fixed
+Bug,HOINC-2084,44429,,Ghost text does not disappearing on comments,Test in UAT,Fixed
+Bug,HOINC-2085,44434,,Hide Docs from search,Test in UAT,Fixed
+Improvement,HOINC-2086,44436,,Enable mentioning in content body,Reopened,Fixed
+Bug,HOINC-2087,44438,,Support stemming/aliases in Group Search,Test in UAT,Fixed
+Bug,HOINC-2088,44440,,User lookup is offset when mentioning a user in a comment or reply,Test in UAT,Fixed
+Task,HOINC-2090,44444,,Mobile notification menu,Closed,Fixed
+Task,HOINC-2091,44446,,Improving activity feed for Groups,Test in UAT,Fixed
+Bug,HOINC-2092,44448,,Can't see groups I am in on Profile page,Test in UAT,Fixed
+Improvement,HOINC-2093,44450,,Change 'Refine' to 'Search',Verified - UAT,Fixed
+Sub-task,HOINC-2096,44454,44452,New general style,Test in UAT,Fixed
+Sub-task,HOINC-2099,44457,44452,New list style,Verified - UAT,Fixed
+Bug,HOINC-2101,44473,,Suggestion dropdown behind screen,Verified - UAT,Fixed
+Bug,HOINC-2102,44476,,My Workspace is empty for Drupal admin,Closed,Fixed
+Bug,HOINC-2103,44479,,Members tab appearing on site sections ,Verified - UAT,Fixed
+Bug,HOINC-2104,44482,,Docs are always published regardless of status selected,Test in UAT,Fixed
+Bug,HOINC-2105,44485,,Author of Doc displayed as username and not forename/surname,Test in UAT,Fixed
+Bug,HOINC-2106,44488,,"Rename radio button to ""Private"" on group creation",Test in UAT,Fixed
+Improvement,HOINC-2107,44491,,Remove <legend> from birthday label,Closed,Fixed
+Bug,HOINC-2108,44494,,XSS in my workspace,Closed,Fixed
+Bug,HOINC-2109,44497,,ITHC link rendering remediation,Closed,Fixed
+Bug,HOINC-2124,44621,,Edit profile showing menu token in URL and no access to edit profile,Verified - UAT,Fixed
+Task,HOINC-2125,44627,,Can see title of a secret group I am not part of - members/docs tabs,Test in UAT,Fixed
+Bug,HOINC-2126,44630,,Simple search counts now show <span> as plain text,Closed,Fixed
+Bug,HOINC-2128,44710,,Toolbar search overlaps IPE options,Verified - UAT,Fixed
+Bug,HOINC-2131,44724,,Productivity landing page search link redirects to productivity root page,Verified - UAT,Fixed
+Bug,HOINC-2139,44771,,Search redirecting to /section/home for webmaster,Verified - UAT,Fixed
+Bug,HOINC-2140,44776,,Errors on 'Your Feeds' Pg,Verified - UAT,Fixed
+Bug,HOINC-2141,44779,,Mentioning a user in a status or comment doesn't notify the user,Test in UAT,Fixed
+Bug,HOINC-2142,44782,,tabs no longer visible when editing site sections,Verified - UAT,Fixed
+Bug,HOINC-2143,44790,,apostrophes are being escaped ,Test in UAT,Fixed
+Bug,HOINC-2145,44806,,Creating and Publishing a Doc file in Groups,Test in UAT,Fixed
+Bug,HOINC-2146,44809,,Groups - Mobile Screens (360px breakpoint),Closed,Fixed
+Task,HOINC-2147,44823,,My Feeds - User joins data not shown,Test in UAT,Fixed
+Task,HOINC-2148,44826,,Poll author cannot see results without voting,Test in UAT,Fixed
+Bug,HOINC-2149,44830,,Cannot see files under Library,Verified - UAT,Fixed
+Bug,HOINC-2150,44834,,Preview in Blog creation returns error,Verified - UAT,Fixed
+Bug,HOINC-2151,44837,,"""Liking"" Blog comment does not turn 'thumb' blue on Core-QA",Closed,Fixed
+Task,HOINC-2152,44840,,Mention drop-down is transaparent,Reopened,Fixed
+Task,HOINC-2153,44855,,No email when added to group,Test in UAT,Fixed
+Bug,HOINC-2154,44858,,"Email notification for inappropriate comment in Groups has typo, wrong person mentioned",Test in UAT,Fixed
+Task,HOINC-2158,45001,,Mentioning with . removes breaklines,Verified - UAT,Fixed
+Bug,HOINC-2159,45003,,Content search results appearing with different size text,Closed,Fixed
+Bug,HOINC-2160,45006,,"When you like content, the author does not receive notification",Test in UAT,Fixed
+Bug,HOINC-2161,45008,,Cannot flag comments as inappropriate on Blog entry,Verified - UAT,Fixed
+Bug,HOINC-2162,45010,,Can't see profile pictures in feed,Test in UAT,Fixed
