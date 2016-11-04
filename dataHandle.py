@@ -6,7 +6,7 @@ def infostrip (filepath):
     #a = a.replace('Fixed', 'Passed')
     todrop =['Issue Type','Issue id', 'Parent id']
     b = a.drop(todrop, axis=1)
-    print b
+    #print b
     return b
 
 def maketable (do, table ):
